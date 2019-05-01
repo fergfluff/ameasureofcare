@@ -1,5 +1,7 @@
 # A Measure Of Care
 
+(http://www.itpblogelizabethferguson.com/wp-content/uploads/2019/05/Screen-Shot-2019-04-30-at-8.44.05-PM-1-1024x597.png)
+
 Welcome! Thanks for checking out A Measure of Care. You are invited to contribute to the data set I've started, and help shape the values that go into highlighting who is included, and why. 
 
 **Part I: Explore**
@@ -21,3 +23,5 @@ You are  encouraged to contribute to the data set behind this project. There are
 We'd probably have to talk a little bit about how to find the info that goes into the data set, and I'm happy to do so.
 
 You are also encouraged to help me shape the values that go into highlighting who is included, and why. Please reach out to me. 
+
+www.elizabethjeaneferguson.com
