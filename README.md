@@ -1,7 +1,6 @@
 # A Measure Of Care
 
-![Website for A Measure Of Care]
-(http://www.itpblogelizabethferguson.com/wp-content/uploads/2019/05/Screen-Shot-2019-04-30-at-8.44.05-PM-1-1024x597.png)
+![Website for A Measure Of Care](http://www.itpblogelizabethferguson.com/wp-content/uploads/2019/05/Screen-Shot-2019-04-30-at-8.44.05-PM-1-1024x597.png)
 
 Welcome! Thanks for checking out A Measure of Care. You are invited to contribute to the data set I've started, and help shape the values that go into highlighting who is included, and why. 
 
