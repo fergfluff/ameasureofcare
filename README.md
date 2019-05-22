@@ -9,7 +9,7 @@ Welcome! Thanks for checking out A Measure of Care. You are invited to contribut
 Use my website to look for remarkable people in the Library of Congress' collections who did not receive obituaries in The New York Times until the launch of their Overlooked feature in 2018. See the ways in people may be missing, hard to find, or not as represented as their counterparts.
 
 Website Here:
-https://a-measure-of-care.glitch.me/
+https://ameasureofcare.glitch.me/
 
 **Part II: Add**
 
